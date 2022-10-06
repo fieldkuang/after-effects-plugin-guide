@@ -462,7 +462,7 @@ Test your effect
 ****************
 Once you have completed the above preparation steps, test your effect thoroughly. You should be able to test simple and complex compositions and see performance improvements as the effect utilizes multi-frame rendering.
 
-*	Go through all your existing manual and automated testing plans.
+*	Go through all your existing manuals and automated testing plans.
 *	Test all the effect parameters and make sure they are working properly.
 *	Add in some of the AE effects that have already been made thread-safe as appropriate. See the :ref:`first-party` section.
 *	Make sure there are no crashes, hangs, render differences or other unexpected changes when rendering with multi-frame rendering enabled.
